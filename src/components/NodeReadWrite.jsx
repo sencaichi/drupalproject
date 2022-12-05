@@ -101,7 +101,12 @@ const NodeItem = ({id, drupal_internal__nid, title, body, contentList, updateCon
  * Component to render when there are no articles to display.
  */
 const NoData = () => (
-  <div>No articles found.</div>
+  <div>Hi! My name is Sen Cai. Welcome to my digital sanctuary!
+    <br></br>
+    <br></br>
+    Check back for updates!
+    <br></br>
+    </div>
 );
 
 /**

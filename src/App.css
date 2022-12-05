@@ -8,6 +8,7 @@
 
 hr {
   border: 1px solid palevioletred;
+  margin-top: 1em;
 }
 
 input, textarea, button {

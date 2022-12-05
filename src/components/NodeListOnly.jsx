@@ -19,7 +19,11 @@ const NodeItem = ({drupal_internal__nid, title}) => (
 );
 
 const NoData = () => (
-  <div>No articles found.</div>
+  <div>Hi! My name is Sen Cai. Welcome to my digital sanctuary!
+    <br></br>
+    Check back for updates!
+    <br></br>
+    </div>
 );
 
 const NodeListOnly = () => {
