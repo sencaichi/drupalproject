@@ -1,6 +1,8 @@
-This is a Drupal project intended for educational purposes. It uses Javascript for the front-end and Drupal as the back-end. This may serve as the scaffold for a later project. 
+This is a Drupal project intended for educational purposes. It uses Javascript for the front-end and Drupal as the back-end. This may serve as the scaffold for a later project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![Screenshot](screenshot.png)
 
 ## Setup
 
